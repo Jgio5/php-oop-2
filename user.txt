@@ -1,0 +1,12 @@
+User
+
+id_key INT auto_increment unique not null
+nome	varchar(100)				not null
+cognome	varchar(100)				not null
+soprannome 	varchar(50)				null
+email		varchar(100)			null
+type		varchar(100)			not null
+membership	YYYY					null
+image		text					null
+status		varchar(100)			not null
+		
